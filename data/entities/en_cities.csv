@@ -1,0 +1,568 @@
+CityID:ID,Name,:LABEL
+city_0001,Mount Wilson,City
+city_0002,Rainbow Flat,City
+city_0003,Dromana,City
+city_0004,Adelaide,City
+city_0005,Gerroa,City
+city_0006,Lake Conjola,City
+city_0007,Budgee Budgee,City
+city_0008,Murrumbateman,City
+city_0009,Zilzie,City
+city_0010,Hawks Nest,City
+city_0011,Speers Point,City
+city_0012,Canowindra,City
+city_0013,Ballina,City
+city_0014,Apollo Bay,City
+city_0015,Fitzroy Falls,City
+city_0016,Waverley,City
+city_0017,Binalong,City
+city_0018,Queanbeyan,City
+city_0019,Red Hill South,City
+city_0020,Ballarat,City
+city_0021,Wallendbeen,City
+city_0022,Bunbury,City
+city_0023,Chain Valley Bay,City
+city_0024,Middle Dural,City
+city_0025,Whyanbeel,City
+city_0026,Margaret River,City
+city_0027,Malua Bay,City
+city_0028,Nashdale,City
+city_0029,Yarramalong,City
+city_0030,Perth,City
+city_0031,Milbrodale,City
+city_0032,Heatherbrae,City
+city_0033,Port Douglas,City
+city_0034,Bright,City
+city_0035,Laurieton,City
+city_0036,Yan Yean,City
+city_0037,Dixons Creek,City
+city_0038,Bulga Forest,City
+city_0039,Castlemaine,City
+city_0040,Hastings,City
+city_0041,Nowendoc,City
+city_0042,Parkes,City
+city_0043,Quorrobolong,City
+city_0044,Tanilba Bay,City
+city_0045,Bellarine,City
+city_0046,Bolwarra,City
+city_0047,St Helens,City
+city_0048,Robin Hill,City
+city_0049,Wyong Creek,City
+city_0050,Blue Mountains National Park,City
+city_0051,Kalbarri,City
+city_0052,Bittern,City
+city_0053,Narrabri,City
+city_0054,Kurri Kurri,City
+city_0055,Wentworth Falls,City
+city_0056,Mulbring,City
+city_0057,Wauchope,City
+city_0058,Bristol,City
+city_0059,Cooma,City
+city_0060,Lawson,City
+city_0061,Lennox Head,City
+city_0062,Port Stephens,City
+city_0063,Millfield,City
+city_0064,Mograni,City
+city_0065,Cottage Point,City
+city_0066,Bowning,City
+city_0067,Koorawatha,City
+city_0068,Mornington,City
+city_0069,Cooranbong,City
+city_0070,Rochester,City
+city_0071,Castlereagh,City
+city_0072,Berrima,City
+city_0073,Whittingham,City
+city_0074,Greendale (North),City
+city_0075,Comerong Island,City
+city_0076,Morisset,City
+city_0077,Wollombi,City
+city_0078,Mungo,City
+city_0079,Wallabadah,City
+city_0080,Buckenderra,City
+city_0081,Kandos,City
+city_0082,Port Welshpool,City
+city_0083,Killarney,City
+city_0084,Yetholme,City
+city_0085,Central Coast,City
+city_0086,Cawdor,City
+city_0087,Sutton,City
+city_0088,Perthville,City
+city_0089,Cape Schanck,City
+city_0090,Belimbla Park,City
+city_0091,Belconnen,City
+city_0092,Boomerang Beach,City
+city_0093,Mount Erin,City
+city_0094,Darwin,City
+city_0095,Hall,City
+city_0096,Bundanoon,City
+city_0097,Wollongong,City
+city_0098,Brooklyn,City
+city_0099,Tilpa,City
+city_0100,East Lynne,City
+city_0101,Airlie Beach,City
+city_0102,Southsea,City
+city_0103,Cowan,City
+city_0104,Harrington,City
+city_0105,Mulgoa,City
+city_0106,Dallas,City
+city_0107,Jerrabomberra,City
+city_0108,Wallerawang,City
+city_0109,Maraylya,City
+city_0110,Berlang,City
+city_0111,Cockwhy,City
+city_0112,Gungahlin,City
+city_0113,Capel Sound,City
+city_0114,Bowral,City
+city_0115,Moss Vale,City
+city_0116,Nelson Bay,City
+city_0117,Warners Bay,City
+city_0118,Boneo,City
+city_0119,Smythes Creek,City
+city_0120,Blayney,City
+city_0121,Kingscliff,City
+city_0122,Eugowra,City
+city_0123,Wisemans Ferry,City
+city_0124,Wallaroo,City
+city_0125,Gawler,City
+city_0126,Auckland,City
+city_0127,Taralga,City
+city_0128,Dewitt,City
+city_0129,Baerami,City
+city_0130,Mollymook Beach,City
+city_0131,Marysville,City
+city_0132,Flinders,City
+city_0133,Lemon Tree Passage,City
+city_0134,Tianjara,City
+city_0135,Dyers Crossing,City
+city_0136,Berowra Waters,City
+city_0137,Murringo,City
+city_0138,Tea Gardens,City
+city_0139,Koorainghat,City
+city_0140,Kanimbla,City
+city_0141,New Town,City
+city_0142,Crowdy Head,City
+city_0143,Sutton Forest,City
+city_0144,Ryhope,City
+city_0145,Laughtondale,City
+city_0146,Silvan,City
+city_0147,Cassilis,City
+city_0148,Maroota,City
+city_0149,Portland,City
+city_0150,Paterson,City
+city_0151,Huntley (North),City
+city_0152,Coldstream,City
+city_0153,Stromlo,City
+city_0154,Tennent,City
+city_0155,Gold Coast,City
+city_0156,Harrietville,City
+city_0157,Canoelands,City
+city_0158,Belvedere,City
+city_0159,Belmont,City
+city_0160,Black Head,City
+city_0161,Kinglake West,City
+city_0162,Red Hill,City
+city_0163,Bobs Farm,City
+city_0164,Martinsville,City
+city_0165,Scone,City
+city_0166,Blaxland,City
+city_0167,Mullumbimby,City
+city_0168,Bowen,City
+city_0169,Albion Park Rail,City
+city_0170,Weston Creek,City
+city_0171,Middle Brook,City
+city_0172,Hawkesbury Heights,City
+city_0173,Canberra,City
+city_0174,Milton,City
+city_0175,Gloucester,City
+city_0176,Forster,City
+city_0177,Paddys River,City
+city_0178,Manildra,City
+city_0179,Luddenham,City
+city_0180,Vincentia,City
+city_0181,Taylors Beach,City
+city_0182,Gunderman,City
+city_0183,Kingscote,City
+city_0184,State Mine Gully,City
+city_0185,Newnes,City
+city_0186,Warri,City
+city_0187,Kangaroo Valley,City
+city_0188,Wangi Wangi,City
+city_0189,Mogo (South),City
+city_0190,Palona,City
+city_0191,Catherine Hill Bay,City
+city_0192,Arthurs Seat,City
+city_0193,Callala Bay,City
+city_0194,Bulga,City
+city_0195,Brisbane,City
+city_0196,Pokolbin,City
+city_0197,Hill End,City
+city_0198,Tomerong,City
+city_0199,Warburton,City
+city_0200,Broken Hill,City
+city_0201,Glen Davis,City
+city_0202,Bribie Island,City
+city_0203,London,City
+city_0204,Calga,City
+city_0205,Lake Innes,City
+city_0206,Katoomba,City
+city_0207,Yering,City
+city_0208,Balnarring,City
+city_0209,Portsea,City
+city_0210,Katherine,City
+city_0211,Karuah,City
+city_0212,Glenbrook,City
+city_0213,Singleton,City
+city_0214,Bengaluru,City
+city_0215,Mount Macedon,City
+city_0216,Garland Valley,City
+city_0217,National Park,City
+city_0218,Tomakin,City
+city_0219,Wingham,City
+city_0220,Robertson,City
+city_0221,Coolah,City
+city_0222,Mount Tomah,City
+city_0223,Christmas Hills,City
+city_0224,Maidenhead,City
+city_0225,Freemans Reach,City
+city_0226,Bulahdelah,City
+city_0227,Bathurst,City
+city_0228,Busselton,City
+city_0229,Eurunderee,City
+city_0230,Jamberoo,City
+city_0231,Lidsdale,City
+city_0232,Greenethorpe,City
+city_0233,Blueys Beach,City
+city_0234,Bendigo,City
+city_0235,Federal,City
+city_0236,Wangandary,City
+city_0237,Carcoar,City
+city_0238,Port Lincoln,City
+city_0239,Bargo,City
+city_0240,Woronora Dam,City
+city_0241,Rhyll,City
+city_0242,Broke,City
+city_0243,Mittagong,City
+city_0244,Soldiers Point,City
+city_0245,Monga,City
+city_0246,Windella,City
+city_0247,Fingal,City
+city_0248,North Narooma,City
+city_0249,Marchmont,City
+city_0250,Oberon,City
+city_0251,Molonglo Valley,City
+city_0252,Clarendon,City
+city_0253,Bangalow,City
+city_0254,Greenvale,City
+city_0255,Kiama,City
+city_0256,Bungendore,City
+city_0257,Mondrook,City
+city_0258,Tyabb,City
+city_0259,Appin,City
+city_0260,Beecroft Peninsula,City
+city_0261,Murrurundi,City
+city_0262,Suffolk Park,City
+city_0263,Jenolan,City
+city_0264,Barrack Heights,City
+city_0265,Red Head,City
+city_0266,Pentland Hills,City
+city_0267,Mogood,City
+city_0268,Camden Head,City
+city_0269,Mount Victoria,City
+city_0270,Mowbray Park,City
+city_0271,Salt Ash,City
+city_0272,Dunedoo,City
+city_0273,Boorowa,City
+city_0274,Blacksmiths,City
+city_0275,Bilpin,City
+city_0276,Pinny Beach,City
+city_0277,Oak Beach,City
+city_0278,Lake Tabourie,City
+city_0279,Booragul,City
+city_0280,Dalwood (South),City
+city_0281,Raymond Terrace,City
+city_0282,Herons Creek,City
+city_0283,Woden Valley,City
+city_0284,Trunding,City
+city_0285,White Rock,City
+city_0286,Tahmoor,City
+city_0287,Fingal Bay,City
+city_0288,Moorooduc,City
+city_0289,Elderslie,City
+city_0290,Sarnia,City
+city_0291,Tambaroora,City
+city_0292,Curramore,City
+city_0293,Relbia,City
+city_0294,Wilberforce,City
+city_0295,Yeoval,City
+city_0296,Currarong,City
+city_0297,Townsville,City
+city_0298,Narooma,City
+city_0299,Apsley,City
+city_0300,Kearsley,City
+city_0301,Taree,City
+city_0302,Colley,City
+city_0303,Young,City
+city_0304,Great Bay,City
+city_0305,Sydney,City
+city_0306,Anna Bay,City
+city_0307,Loxford,City
+city_0308,Cuttlefish Bay,City
+city_0309,Ulladulla,City
+city_0310,Big Springs,City
+city_0311,Knights Hill,City
+city_0312,Kings Point,City
+city_0313,Gulgong,City
+city_0314,Grattai,City
+city_0315,Little River,City
+city_0316,Springwood,City
+city_0317,Jibbon,City
+city_0318,Molong,City
+city_0319,Shellharbour City Centre,City
+city_0320,Cowra,City
+city_0321,Portarlington,City
+city_0322,Mangrove Mountain,City
+city_0323,Windsor,City
+city_0324,Launceston,City
+city_0325,Dunbogan,City
+city_0326,Broome,City
+city_0327,Bimbimbie,City
+city_0328,Sunshine Coast,City
+city_0329,Fern Gully,City
+city_0330,Neville,City
+city_0331,Laggan,City
+city_0332,Braidwood,City
+city_0333,Wolgan Valley,City
+city_0334,Mount View,City
+city_0335,Corlette,City
+city_0336,Wentworth,City
+city_0337,Smiths Lake,City
+city_0338,Burnie,City
+city_0339,Sandy Hollow,City
+city_0340,Broulee,City
+city_0341,Kununurra,City
+city_0342,Audley,City
+city_0343,Cessnock,City
+city_0344,Coffs Harbour,City
+city_0345,Geelong,City
+city_0346,Moruya,City
+city_0347,Mumbil,City
+city_0348,Ocean Shores,City
+city_0349,South Evans Head,City
+city_0350,Pearcedale,City
+city_0351,Dangar Island,City
+city_0352,Megalong Valley,City
+city_0353,Mount Frome,City
+city_0354,Melton,City
+city_0355,Bomaderry,City
+city_0356,Emerald,City
+city_0357,Yarrowitch,City
+city_0358,Richmond,City
+city_0359,Wyangala,City
+city_0360,Marulan,City
+city_0361,Port Macquarie,City
+city_0362,Ebenezer,City
+city_0363,Metung,City
+city_0364,Seal Rocks,City
+city_0365,Casuarina,City
+city_0366,Singleton Military Area,City
+city_0367,Springrange,City
+city_0368,Broughton Vale,City
+city_0369,Lord Howe Island,City
+city_0370,Millthorpe,City
+city_0371,St George,City
+city_0372,The Oaks,City
+city_0373,Smythesdale,City
+city_0374,Burrinjuck,City
+city_0375,Whittlesea,City
+city_0376,Batemans Bay,City
+city_0377,Nulkaba,City
+city_0378,Bellingen,City
+city_0379,Lovedale,City
+city_0380,Shoalhaven Heads,City
+city_0381,Termeil,City
+city_0382,Islip,City
+city_0383,Dungog,City
+city_0384,Bywong,City
+city_0385,Coomba Park,City
+city_0386,Lochiel,City
+city_0387,North Brother,City
+city_0388,Greenwell Point,City
+city_0389,South Durras,City
+city_0390,Albion Park,City
+city_0391,Huskisson,City
+city_0392,Bermagui,City
+city_0393,Mount Martha,City
+city_0394,Marshall Mount,City
+city_0395,Stewarts Mount,City
+city_0396,Lidster,City
+city_0397,Branxton,City
+city_0398,Newhaven,City
+city_0399,Ophir,City
+city_0400,Westfield,City
+city_0401,Kuranda,City
+city_0402,Gruyere,City
+city_0403,Barrington,City
+city_0404,Marlee,City
+city_0405,Thirlmere,City
+city_0406,Valley Heights,City
+city_0407,Bodalla,City
+city_0408,Picton,City
+city_0409,Thornton,City
+city_0410,Mount Royal,City
+city_0411,Darkes Forest,City
+city_0412,Forbesdale,City
+city_0413,Leura,City
+city_0414,Comboyne,City
+city_0415,Rosebud,City
+city_0416,Daylesford,City
+city_0417,Wellington,City
+city_0418,Grantville,City
+city_0419,Tuncurry,City
+city_0420,Wombat,City
+city_0421,Burrundulla,City
+city_0422,Culburra Beach,City
+city_0423,Sorrento,City
+city_0424,Yanga,City
+city_0425,Woodlands (North),City
+city_0426,Tallong,City
+city_0427,Hobart,City
+city_0428,Port Arthur,City
+city_0429,Blackheath,City
+city_0430,Barren Grounds,City
+city_0431,Myrniong,City
+city_0432,Melbourne,City
+city_0433,Curraweela,City
+city_0434,Newrybar,City
+city_0435,Lake George,City
+city_0436,Lucknow,City
+city_0437,Main Ridge,City
+city_0438,Cairns,City
+city_0439,Coopernook,City
+city_0440,Tenterfield,City
+city_0441,Glenbawn,City
+city_0442,Port Phillip Bay,City
+city_0443,Lansdowne Forest,City
+city_0444,Rathmines,City
+city_0445,St Marys,City
+city_0446,Morton,City
+city_0447,Erudgere,City
+city_0448,Devils River,City
+city_0449,Wilton,City
+city_0450,Tilba Tilba,City
+city_0451,Jeir,City
+city_0452,Annangrove,City
+city_0453,Rylstone,City
+city_0454,Orange,City
+city_0455,Medowie,City
+city_0456,Somers,City
+city_0457,Monteagle,City
+city_0458,Goulburn,City
+city_0459,Warrenheip,City
+city_0460,Hartley,City
+city_0461,Terara,City
+city_0462,Nundle,City
+city_0463,Pitt Town,City
+city_0464,Byron Bay,City
+city_0465,Burrill Lake,City
+city_0466,Sunbury,City
+city_0467,Williamtown,City
+city_0468,Glenorie,City
+city_0469,Central Tilba,City
+city_0470,Hadspen,City
+city_0471,Hartford,City
+city_0472,Redhead,City
+city_0473,Dubbo,City
+city_0474,Boolaroo,City
+city_0475,Mudgee,City
+city_0476,Kota,City
+city_0477,Galston,City
+city_0478,Forest Grove,City
+city_0479,Mandurah,City
+city_0480,Whitsundays,City
+city_0481,Ku-Ring-Gai Chase,City
+city_0482,Blackwood,City
+city_0483,Montville,City
+city_0484,Healesville,City
+city_0485,Old Bar,City
+city_0486,Merricks North,City
+city_0487,Canobolas,City
+city_0488,Lucas,City
+city_0489,Shoreham,City
+city_0490,Badger Creek,City
+city_0491,Yatte Yattah,City
+city_0492,Shepparton,City
+city_0493,Capertee,City
+city_0494,Cervantes,City
+city_0495,Caves Beach,City
+city_0496,Nowra,City
+city_0497,Faulconbridge,City
+city_0498,Maitland,City
+city_0499,Buckaroo,City
+city_0500,Lithgow,City
+city_0501,Bawley Point,City
+city_0502,Cowes,City
+city_0503,Safety Beach,City
+city_0504,Belford,City
+city_0505,Woodgate,City
+city_0506,Majura,City
+city_0507,Murrumburrah,City
+city_0508,Balook,City
+city_0509,Cheltenham,City
+city_0510,Somerville,City
+city_0511,Gerringong,City
+city_0512,Salamander Bay,City
+city_0513,Grenfell,City
+city_0514,Bridgewater,City
+city_0515,Grimsby,City
+city_0516,Bungonia,City
+city_0517,Willow Vale (East),City
+city_0518,Budderoo,City
+city_0519,Lake Macquarie,City
+city_0520,Southend-on-Sea,City
+city_0521,Wee Jasper,City
+city_0522,Heddon Greta,City
+city_0523,Bombira,City
+city_0524,Newcastle,City
+city_0525,Tomago,City
+city_0526,Muswellbrook,City
+city_0527,Thredbo,City
+city_0528,Kurrajong Heights,City
+city_0529,Yass,City
+city_0530,Sandy Beach,City
+city_0531,Gundaroo,City
+city_0532,Nabiac,City
+city_0533,Alice Springs,City
+city_0534,Kingsdale,City
+city_0535,Borenore,City
+city_0536,Fern Bay,City
+city_0537,Campbell Town,City
+city_0538,Gateshead,City
+city_0539,Shell Cove,City
+city_0540,San Remo,City
+city_0541,Warragamba,City
+city_0542,Yarra Glen,City
+city_0543,Churchill Island,City
+city_0544,Sackville North,City
+city_0545,Limekilns,City
+city_0546,Tuggeranong,City
+city_0547,Yarra Junction,City
+city_0548,Shoal Bay,City
+city_0549,Quirindi,City
+city_0550,Mount Rankin,City
+city_0551,Tamborine Mountain,City
+city_0552,Toronto,City
+city_0553,Glenworth Valley,City
+city_0554,Hervey Bay,City
+city_0555,Coolangatta,City
+city_0556,Summerland Point,City
+city_0557,Oakhampton Heights,City
+city_0558,Berry,City
+city_0559,Cecil Park,City
+city_0560,Illaroo,City
+city_0561,Shellharbour,City
+city_0562,Sweetmans Creek,City
+city_0563,Hahndorf,City
+city_0564,Jervis Bay,City
+city_0565,Diggers Rest,City
+city_0566,Firenze,City
+city_0567,Cundletown,City

@@ -1,0 +1,10 @@
+fake_useragent==1.1.3
+geopy==2.3.0
+lxml==4.9.2
+pandas==2.0.0
+Requests==2.30.0
+rich==13.3.5
+selenium==4.9.1
+tenacity==8.2.2
+text2vec==1.1.7
+tqdm==4.65.0
